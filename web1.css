@@ -1,0 +1,33 @@
+h1 {
+  color:green;  
+}
+div.a{
+  font-size:20px;
+  width:500px;height:50px;
+  background-color:#F59EB3;
+  color:red;
+  text-align:center;
+  line-height:50px;
+  position:absolute;
+  left:500px;
+  top:680px;
+}
+#block{
+  width:705px;
+  height:522px;
+  position:absolute;
+  left:745px;
+  top:100px;
+  background-color:#F08080;
+}
+  
+body{
+  background-image: url("https://i.imgur.com/pcJhFUP.png");
+                   
+  background-position:50px 100px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  padding:20px;
+  background-color: #FFFFE0;
+}
+
